@@ -1,0 +1,71 @@
+body {
+    background-image: url("Back-ground.jpg");
+    background-size: cover;
+    background-position: center;
+    background: rgba(0, 0, 0, 0.5);
+
+}
+
+
+.nav-links {
+    padding: 50px;
+    background-color: rgb(126, 52, 23);
+    border: 20px;
+    list-style-type: none;
+    display: flex;
+    justify-content: space-around;
+    color: aliceblue;
+    text-decoration: none;
+    font-size: 20px;
+
+}
+
+h1 {
+    color: white;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    word-spacing: normal;
+    border: 20px;
+}
+
+h2 {
+    color: navy;
+    text-align: center;
+}
+
+p {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+}
+
+.first-div {
+    display: flex;
+}
+
+.nav-links li a {
+    color: white;
+    text-decoration: none;
+    font-size: 20px;
+}
+
+.nav-links button {
+    background-color: blue;
+    color: white;
+    padding: 10px 25px;
+    border: none;
+    border-radius: 25px;
+    text-decoration: none;
+}
+
+.first-div div button {
+    background-color: rgb(12, 12, 139);
+    color: white;
+    padding: 10px 25px;
+    border: none;
+    border-radius: 25px;
+    text-decoration: none;
+}
+
+.first-div h1 button {
+    color: white;
+}
